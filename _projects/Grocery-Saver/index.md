@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GrocerySaver
-description: GrocerySaver is a web app I developed to help users compare grocery prices across stores and make cost-effective shopping decisions. It calculates savings and visualizes price differences based on user input.
+description: GrocerySaver is a web app I developed with the help of two other Software Engineering students to help users compare grocery prices across stores and make cost-effective shopping decisions. It calculates savings and visualizes price differences based on user input.
 skills: 
   - Frontend development
   - JavaScript and data handling
@@ -25,24 +25,22 @@ GrocerySaver is a lightweight, interactive web application designed to help user
 
 ## Key Features
 
-- Built with vanilla JavaScript and designed with a responsive, mobile-friendly layout.
-- Automatically calculates total costs and savings per store.
-- Highlights the best deal to make comparison quick and intuitive.
-- Useful for budgeting, shopping planning, and price-conscious decision-making.
+- We built this app with vanilla JavaScript and were tasked with designing a responsive, mobile-friendly layout.
+- The GrocerySaver app automatically calculates total costs and savings per store.
+- Our goal was for it to be useful for budgeting, shopping planning, and price-conscious decision-making.
 
 ---
 
 ## Challenges Faced
 
 - Designing a clean interface that works smoothly across devices without relying on frameworks.
-- Ensuring accurate price parsing and calculation despite varied user input.
-- Creating a pleasant user experience while keeping the app lightweight and fast.
+- Keeping the prices standardized without having to continuously ping several websites with varied data sources.
 
 ---
 
 ## Skills Demonstrated
 
-- **JavaScript Development**: Implemented core logic for dynamic calculations and UI updates.
+- **JavaScript Development**: We implemented core logic for dynamic calculations and UI updates.
 - **Responsive Design**: Developed a layout that adapts well to both desktop and mobile screens.
 - **Web Deployment**: Hosted the app using GitHub Pages with attention to performance and accessibility.
 - **User-Centered Design**: Focused on clarity, ease of use, and visual feedback for key interactions.
