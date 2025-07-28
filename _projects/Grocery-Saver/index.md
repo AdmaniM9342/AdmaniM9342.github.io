@@ -1,47 +1,54 @@
 ---
 layout: post
-title: Process Mapping with The Lab Consulting
-description: This is an example of the Process Mapping I've done with The Lab Consulting as an RPA Developer. We would create process maps in a series of meetings with our clients, then use them as guides for Robotic Process Automation (RPA) development.
+title: GrocerySaver
+description: GrocerySaver is a web app I developed to help users compare grocery prices across stores and make cost-effective shopping decisions. It calculates savings and visualizes price differences based on user input.
 skills: 
-  - Workflow design
-  - Automation logic visualization
-  - Process documentation
-  - UiPath workflows
+  - Frontend development
+  - JavaScript and data handling
+  - UI/UX design
+  - Web app deployment
 
-main-image: /project1.png
+main-image: /project2.png
 ---
 
 ## Overview
 
-This project showcases a structured process map designed to communicate end-to-end workflows clearly. It's used to document, improve, and automate business operations, particularly when working with robotic process automation tools like UiPath.
+GrocerySaver is a lightweight, interactive web application designed to help users make smarter grocery purchases. It allows users to input prices from different stores for common grocery items, and then instantly calculates savings and highlights the cheapest option.
 
 ---
 
 ## Visual
 
-{% include image-gallery.html images="project1.png" height="400" %}
+{% include image-gallery.html images="project2.png,project3.png" height="400" %}
 
 ---
 
 ## Key Features
 
-- The key goals of my process mapping with The Lab Consulting was highlighting decision points, automation triggers, and system touchpoints.
-- The most effective use of our process map was for RPA Development, where we would use the process map both as a list for deliverables and a guide for development.
+- Built with vanilla JavaScript and designed with a responsive, mobile-friendly layout.
+- Automatically calculates total costs and savings per store.
+- Highlights the best deal to make comparison quick and intuitive.
+- Useful for budgeting, shopping planning, and price-conscious decision-making.
 
 ---
 
 ## Challenges Faced
 
-- Translating informal business processes into structured, standardized workflows.
-- Identifying automation opportunities without introducing logical gaps or inefficiencies.
-- Aligning stakeholder expectations with technical limitations during process refinement.
-- Ensuring the process map remained adaptable for future updates and exceptions.
+- Designing a clean interface that works smoothly across devices without relying on frameworks.
+- Ensuring accurate price parsing and calculation despite varied user input.
+- Creating a pleasant user experience while keeping the app lightweight and fast.
 
 ---
 
 ## Skills Demonstrated
 
-- **Process Modeling**: Built detailed maps that capture both human and digital workflows.
-- **Analytical Thinking**: Identified inefficiencies and proposed structured improvements.
-- **Tool Proficiency**: Applied UiPath and diagramming tools to support automation planning.
-- **Technical Communication**: Translated complex workflows into accessible visual artifacts.
+- **JavaScript Development**: Implemented core logic for dynamic calculations and UI updates.
+- **Responsive Design**: Developed a layout that adapts well to both desktop and mobile screens.
+- **Web Deployment**: Hosted the app using GitHub Pages with attention to performance and accessibility.
+- **User-Centered Design**: Focused on clarity, ease of use, and visual feedback for key interactions.
+
+---
+
+## Try It Yourself
+
+[Launch GrocerySaver](https://admanim9342.github.io/Grocery-Cost-Comparison-App/)
