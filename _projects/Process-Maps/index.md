@@ -25,9 +25,8 @@ This project showcases a structured process map designed to communicate end-to-e
 
 ## Key Features
 
-- Highlights decision points, automation triggers, and system touchpoints.
-- Supports effective collaboration between developers and stakeholders.
-- Used as a reference for implementing RPA solutions.
+- The key goals of my process mapping with The Lab Consulting was highlighting decision points, automation triggers, and system touchpoints.
+- The most effective use of our process map was for RPA Development, where we would use the process map both as a list for deliverables and a guide for development.
 
 ---
 
@@ -37,15 +36,6 @@ This project showcases a structured process map designed to communicate end-to-e
 - Identifying automation opportunities without introducing logical gaps or inefficiencies.
 - Aligning stakeholder expectations with technical limitations during process refinement.
 - Ensuring the process map remained adaptable for future updates and exceptions.
-
----
-
-## Lessons Learned
-
-- Early stakeholder engagement is critical to accurate and useful documentation.
-- Visual clarity and simplicity improve cross-functional understanding and buy-in.
-- Iterative feedback loops help refine both business logic and automation design.
-- It's important to validate each process step with real-world scenarios before automation.
 
 ---
 
