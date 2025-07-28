@@ -17,6 +17,12 @@ GrocerySaver is a lightweight, interactive web application designed to help user
 
 ---
 
+## Screenshots
+
+{% include image-gallery.html images="project3.png" height="400" %}
+
+---
+
 ## Key Features
 
 - We built this app with vanilla JavaScript and were tasked with designing a responsive, mobile-friendly layout.
