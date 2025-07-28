@@ -19,7 +19,7 @@ GrocerySaver is a lightweight, interactive web application designed to help user
 
 ## Visual
 
-{% include image-gallery.html images="project2.png,project3.png" height="400" %}
+![GrocerySaver Screenshot](project3.png)
 
 ---
 
