@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Process Maps
-description: A detailed process map to visualize and streamline business workflows and automation logic, especially within engineering and RPA contexts.
+title: Process Mapping with The Lab Consulting
+description: This is an example of the Process Mapping I've done with The Lab Consulting as an RPA Developer. We would create process maps in a series of meetings with our clients, then use them as guides for Robotic Process Automation (RPA) development.
 skills: 
   - Workflow design
   - Automation logic visualization
