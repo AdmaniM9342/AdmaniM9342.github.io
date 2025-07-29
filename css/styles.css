@@ -24,7 +24,7 @@ html {
 body {
     padding: 0 50px;
     font-family: 'Poppins', sans-serif;
-    background-color: var(--background-color);
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
     max-width: 1400px;
     margin: 0 auto;
 }
