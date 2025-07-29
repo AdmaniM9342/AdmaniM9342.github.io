@@ -15,12 +15,13 @@ main-image: /project2.png
 
 GrocerySaver is a lightweight, interactive web application designed to help users make smarter grocery purchases. It allows users to input prices from different stores for common grocery items, and then instantly calculates savings and highlights the cheapest option.
 
+## Try it yourself!
+
 <br>
 <a href="https://admanim9342.github.io/Grocery-Cost-Comparison-App/" class="button-outline" target="_blank">
-  🚀 Launch GrocerySaver
+  🚀 Launch GrocerySaver 🚀
 </a>
 <br><br>
-
 
 ---
 
