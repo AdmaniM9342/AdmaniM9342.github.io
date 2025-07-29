@@ -15,6 +15,8 @@ main-image: /project2.png
 
 GrocerySaver is a lightweight, interactive web application designed to help users make smarter grocery purchases. It allows users to input prices from different stores for common grocery items, and then instantly calculates savings and highlights the cheapest option.
 
+---
+
 ## Try it yourself!
 
 <br>
