@@ -929,6 +929,8 @@ footer p {
         font-size: 16px;
     }
 
+  
+
     /*SECTION 4: Contact */
     .contact-section{
         padding: 0 20px
@@ -947,3 +949,19 @@ footer p {
       
 }
 
+.button-outline {
+  display: inline-block;
+  padding: 12px 24px;
+  border: 2px solid #007BFF;
+  border-radius: 6px;
+  color: #007BFF;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1em;
+  transition: all 0.2s ease-in-out;
+}
+
+.button-outline:hover {
+  background-color: #007BFF;
+  color: white;
+}
